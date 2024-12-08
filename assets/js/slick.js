@@ -14,6 +14,9 @@
   Issues: http://github.com/kenwheeler/slick/issues
 
  */
+
+
+  
 /* global window, document, define, jQuery, setInterval, clearInterval */
 (function(factory) {
     'use strict';
